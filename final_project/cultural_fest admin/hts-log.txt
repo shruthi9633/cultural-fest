@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Mar 2019 12:02:37 at https://www.cubictheme.ga/cubic-html/form-layout.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cubictheme.ga/cubic-html/form-layout.html -O1 "C:\Users\S Goutham\Desktop\project\cultural_fest admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:04:08	Error: 	"Not Found" (404) at link https://www.cubictheme.ga/plugins/components/owl.carousel/owl.video.play.png (from https://www.cubictheme.ga/plugins/components/owl.carousel/owl.carousel.min.css)
+12:04:24	Error: 	"Not Found" (404) at link https://www.cubictheme.ga/plugins/components/custom-select/select2-spinner.gif (from https://www.cubictheme.ga/plugins/components/custom-select/custom-select.css)
+12:04:24	Error: 	"Not Found" (404) at link https://www.cubictheme.ga/plugins/components/custom-select/select2x2.png (from https://www.cubictheme.ga/plugins/components/custom-select/custom-select.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 47 seconds : 417 links scanned, 413 files written (17425155 bytes overall) [13982617 bytes received at 130678 bytes/sec], 4503673 bytes transferred using HTTP compression in 88 files, ratio 21%, 23.1 requests per connection
+(3 errors, 0 warnings, 0 messages)
